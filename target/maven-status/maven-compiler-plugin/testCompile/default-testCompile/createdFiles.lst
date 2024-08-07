@@ -1,0 +1,3 @@
+com/vanguard/weather/WeatherApiApplicationTests.class
+com/vanguard/weather/service/WeatherServiceTest.class
+com/vanguard/weather/controller/WeatherControllerTest.class
